@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Traffic_Light</string>
+    <string name="stop">STOP</string>
+</resources>
